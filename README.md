@@ -1,2 +1,1 @@
-# union
-This repo has been moved to github.com/unionlabs/union
+# This repo has been moved to https://github.com/unionlabs/union
